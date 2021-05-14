@@ -1,6 +1,7 @@
 name: ssh
 version: 1.0.0+0
 description: Command line SSH client with dartssh.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 author: Green Appers, Inc. <greenappers@gmail.com>
 homepage: https://github.com/GreenAppers/cruzawl
 documentation: https://pub.dev/documentation/dartssh/latest/
