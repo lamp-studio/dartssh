@@ -459,7 +459,7 @@ packages:
   tweetnacl:
     dependency: "direct main"
     description:
-      path: tweetnacl
+      path: tweetnacl-dart
       relative: true
     source: path
     version: "0.3.2"

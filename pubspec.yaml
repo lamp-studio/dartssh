@@ -17,7 +17,7 @@ dependencies:
   pointycastle: ^1.0.2  
   validators: ^2.0.0+1
   tweetnacl:
-    path: tweetnacl
+    path: tweetnacl-dart
 
 dev_dependencies:
   build_runner: ^1.4.0
