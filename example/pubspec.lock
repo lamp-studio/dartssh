@@ -123,9 +123,11 @@ packages:
   tweetnacl:
     dependency: transitive
     description:
-      path: "../tweetnacl"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "7326cc2e907777f4544d015c7d0b53839c0270f1"
+      url: "https://github.com/lamp-studio/tweetnacl-dart.git"
+    source: git
     version: "0.3.2"
   typed_data:
     dependency: transitive
